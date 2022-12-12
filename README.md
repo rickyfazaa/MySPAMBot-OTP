@@ -41,7 +41,7 @@ git clone https://github.com/rickyfazaa/MySPAMBot-OTP
 ```sh
 cd MySPAMBot-OTP
 ```
-- **Jalankan Requirement Modul di CMD**
+- **Jalankan Requirement Modul di Terminal ( CMD )**
 ```sh
 pip install requirements.txt
 ```
@@ -61,7 +61,7 @@ lalu tekan "Download ZIP"
 ```sh
 cd MySPAMBot-OTP
 ```
-- **Jalankan Requirement Modul di CMD**
+- **Jalankan Requirement Modul di Terminal ( CMD )**
 ```sh
 pip install requirements.txt
 ```
@@ -81,6 +81,6 @@ python main.py
 
 
 ## Support Me 
-## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK YGY)
-### [**My Instagram: @rickyfazaa**](instagram.com/rickyfazaa)    
+## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK, BIAR GK KETINGGALAN UPDATE YGY)
+### [**My Instagram: @rickyfazaa**](https://www.instagram.com/rickyfazaa)    
 Tools ini telah mengalami **update**.
