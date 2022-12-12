@@ -280,7 +280,8 @@ def main():
     print(f"""Selamat datang di MySpamBot
 Author      : {hijau}Ricky Khairul Faza
 Github      : {merah}github.com/rickyfazaa
-Instagram   : {biru}instagram.com/rickyfazaa""")    
+Instagram   : {biru}instagram.com/rickyfazaa""")
+    # Contoh : 089508226367
     autoketik(nomor := input(f"{abu}Masukkan Nomor Target: {hijau}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
 
