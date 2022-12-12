@@ -53,11 +53,9 @@ python main.py
 <br>
 
 ### <p style="color:red">NOTE:</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
-- **Download Manual**
-```
-Download Manual ZIP dengan cara tekan <> Code
-lalu tekan "Download ZIP"
-```
+- **Download Manual:**
+[Download MySPAMbot-OTP](https://github.com/rickyfazaa/MySPAMBot-OTP/releases/download/v.1.0.0/MySPAMBot-OTP-v1.0.0-windows.rar)<br>
+- Extract **MySPAMBot-OTP-v1.0.0-windows.rar**
 - **Buka Folder MySPAMBot-OTP atau Ketik ini di CMD**
 ```sh
 cd MySPAMBot-OTP
