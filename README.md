@@ -3,6 +3,7 @@
 <br>
 
 # Testimoni 😂😂
+Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjalan walaupun ditinggal tidur. 
 <p align="center">
     <br>
     <a>
