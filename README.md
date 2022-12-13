@@ -19,14 +19,13 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 <br>
 
 
-
-# Instalasi
-Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install <b>[Python](https://www.python.org/downloads/)</b> terlebih dahulu: <b>[Click Disini](https://www.python.org/downloads/)</b>
+## Video Tutorial 🚀
+**`Coming Soon`**
 
 <br>
 
-## Video Tutorial 🚀
-**`Coming Soon`**
+# Instalasi
+Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install <b>[Python](https://www.python.org/downloads/)</b> terlebih dahulu: <b>[Click Disini](https://www.python.org/downloads/)</b>
 
 <br>
 
