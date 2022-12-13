@@ -1,4 +1,3 @@
 requests
-urlib3
-os
+urllib3
 bs4
