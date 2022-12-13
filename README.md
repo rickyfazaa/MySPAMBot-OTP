@@ -29,9 +29,9 @@ Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install
 
 <br>
 
-### <p style="color:red">NOTE:</p> Jika kamu Programmer yang memiliki [GIT](https://git-scm.com/downloads) maka,
+### <p style="color:red">NOTE: Instalasi Dengan GIT</p> Jika kamu Programmer yang memiliki [GIT](https://git-scm.com/downloads) maka,
 
-- **Buka CMD / Command Prompt**
+- **Buka CMD / Command Prompt (atau terminal VSCode)**
 
 - **Clone repository**
 ```bash
@@ -43,7 +43,7 @@ cd MySPAMBot-OTP
 ```
 - **Jalankan Requirement Modul di Terminal ( CMD )**
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 - **Jalankan main.py**
 ```bash
@@ -51,17 +51,18 @@ python main.py
 ```
 <br>
 
-### <p style="color:red">NOTE:</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
+### <p style="color:red">NOTE: Instalasi Tanpa GIT</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
 - **Download Manual:**
 [Download MySPAMbot-OTP](https://github.com/rickyfazaa/MySPAMBot-OTP/releases/download/v.1.0.0/MySPAMBot-OTP-v1.0.0-windows.rar)<br>
 - Extract **MySPAMBot-OTP-v1.0.0-windows.rar**
-- **Buka Folder MySPAMBot-OTP atau Ketik ini di CMD**
+- **Buka CMD / Command Prompt (atau terminal VSCode)**
+- **Ketik ini untuk masuk kedalam Folder MySPAMBot-OTP**
 ```sh
 cd MySPAMBot-OTP
 ```
 - **Jalankan Requirement Modul di Terminal ( CMD )**
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 - **Jalankan main.py atau Ketik ini di CMD**
 ```bash
