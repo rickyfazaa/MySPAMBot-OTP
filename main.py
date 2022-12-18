@@ -63,7 +63,7 @@ def tanya(nomor):
         elif a == "t" or a == "T":
             check_input = 1
             autoketik(f"{hijau}Berhasil Keluar Dari Tools")
-            sys.exit()
+            exit()
             break
         else:
             print ("Masukkan Pilihan Dengan Benar")
@@ -271,6 +271,7 @@ def start(nomor,x): # Def Untuk Start Tools
         jam(nomor)
     else:
         print("")
+        autoketik("--reboot--")
         time.sleep(15) # Tunda 20 detik
         os.system("cls") # Clear Terminal
         autoketik(f"{merah}Mengulang Spam ke Nomor : {nomor}.....{hijau}") # Flag dimana program berjalan
