@@ -54,7 +54,7 @@ python main.py
 ### <p style="color:red">NOTE: Instalasi Tanpa GIT</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
 - **Download Manual:**
 [Download MySPAMBot-OTP](https://github.com/rickyfazaa/MySPAMBot-OTP/releases/download/v.1.0.1/MySPAMBot-OTP-v1.0.1-windows.rar)<br>
-- Extract **MySPAMBot-OTP-v1.0.0-windows.rar**
+- Extract **MySPAMBot-OTP-v1.0.1-windows.rar**
 - **Buka CMD / Command Prompt (atau terminal VSCode)**
 - **Ketik ini untuk masuk kedalam Folder MySPAMBot-OTP**
 ```sh
