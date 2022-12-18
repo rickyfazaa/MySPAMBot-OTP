@@ -25,7 +25,7 @@ def autoketik(s):
     for c in s + "\n":
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(0.001)
+        time.sleep(0.050)
 
 # Function ini berfungsi sebagai informasi waktu saat pengiriman spam berlangsung.
 def countdown(time_sec):
@@ -63,7 +63,7 @@ def tanya(nomor):
         elif a == "t" or a == "T":
             check_input = 1
             autoketik(f"{hijau}Berhasil Keluar Dari Tools")
-            exit()
+            sys.exit()
             break
         else:
             print ("Masukkan Pilihan Dengan Benar")
@@ -267,23 +267,23 @@ def jam(nomor): # Don't Remove Code !!!!
 def start(nomor,x): # Def Untuk Start Tools
     if x == 0: # Flag ketika pertama kali masuk kedalam Fungsi start()
         os.system("cls") # Clear Terminal
-        autoketik(f"{merah}Infinite Loop Spam to {nomor} is {hijau}Ready!{hijau}") # Flag dimana program berjalan
+        autoketik(f"{merah}Infinite Loop Spam to {putih}{nomor} {merah}is {hijau}Ready!{hijau}") # Flag dimana program berjalan
         jam(nomor)
     else:
         print("")
-        autoketik("--reboot--")
+        autoketik("--reboot wait 20 second--")
         time.sleep(15) # Tunda 20 detik
         os.system("cls") # Clear Terminal
         autoketik(f"{merah}Mengulang Spam ke Nomor : {nomor}.....{hijau}") # Flag dimana program berjalan
         jam(nomor)
         
 def main():
-    print(f"""Selamat datang di MySpamBot
-Author      : {hijau}Ricky Khairul Faza
-Github      : {merah}github.com/rickyfazaa
-Instagram   : {biru}instagram.com/rickyfazaa""")
+    autoketik(f"Selamat datang di {merah}MySpamBot")
+    print(f"""{kuning}Author      : {hijau}Ricky Khairul Faza
+{kuning}Github      : {merah}github.com/rickyfazaa
+{kuning}Instagram   : {biru}instagram.com/rickyfazaa""")
     # Contoh : 089508226367
-    autoketik(nomor := input(f"{abu}Masukkan Nomor Target: {hijau}")) # Walrus Operator untuk inputan Nomor Target
+    print(nomor := input(f"{hijau}Masukkan Nomor Target: {putih}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
 
 try:
