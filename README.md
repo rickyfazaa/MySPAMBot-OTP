@@ -24,6 +24,16 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 
 <br>
 
+
+# v.1.0.2 (**21 Desember 2022**) WORK! ✔️✔️
+<p align="center">
+    <a>
+        <img src="https://telegra.ph/file/66476ca2ac529ec55e885.png">
+    </a><br>
+    Target: <b>im3</b> 
+</p>
+<br>
+
 # Instalasi
 Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install <b>[Python](https://www.python.org/downloads/)</b> terlebih dahulu: <b>[Click Disini](https://www.python.org/downloads/)</b>
 
@@ -72,9 +82,7 @@ python main.py
 
 ## Dependencies 🚀
 **`Coming Soon`**
-
-## Documentations 🚀
-**`Coming Soon`**
+<br>
 
 <br>
 
@@ -82,4 +90,4 @@ python main.py
 ## Support Me 
 ## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK, BIAR GK KETINGGALAN UPDATE YGY)
 ### [**My Instagram: @rickyfazaa**](https://www.instagram.com/rickyfazaa)    
-Tools ini telah mengalami **update**.
+Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/rickyfazaa).
