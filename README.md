@@ -51,11 +51,7 @@ git clone https://github.com/rickyfazaa/MySPAMBot-OTP
 ```sh
 cd MySPAMBot-OTP
 ```
-- **Jalankan Requirement Modul di Terminal ( CMD )**
-```sh
-pip install -r requirements.txt
-```
-- **Jalankan main.py**
+- **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
 ```bash
 python main.py
 ```
@@ -70,11 +66,7 @@ python main.py
 ```sh
 cd MySPAMBot-OTP
 ```
-- **Jalankan Requirement Modul di Terminal ( CMD )**
-```sh
-pip install -r requirements.txt
-```
-- **Jalankan main.py atau Ketik ini di CMD**
+- **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
 ```bash
 python main.py
 ```
