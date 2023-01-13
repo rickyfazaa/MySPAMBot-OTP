@@ -1,12 +1,22 @@
-# Import Module
-import requests # Post, Get, & Put URL API
-import sys      # Untuk fungsi pada terminal, seperti autoketik() dan exit()
-import time     # Untuk informasi waktu
-import random   # Untuk random user
-import os       # Untuk "clear" terminal
-import urllib3  # HTTP client untuk Python
-import json     # Agar body requests dapat dilihat dengan cara di print
+import sys          # Untuk fungsi pada terminal, seperti autoketik() dan exit()
+import subprocess   # Installing python module within code / script (Tanpa requirements.txt)
 
+try: # Import Module
+    import requests # Post, Get, & Put URL API
+    import time     # Untuk informasi waktu
+    import random   # Untuk random user
+    import os       # Untuk "clear" terminal
+    import urllib3  # HTTP client untuk Python
+    import json     # Agar body requests dapat dilihat dengan cara di print
+except ImportError:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", 'requests'])
+    subprocess.check_call([sys.executable, "-m", "pip", "install", 'urllib3'])
+    subprocess.check_call([sys.executable, "-m", "pip", "install", 'bs4'])
+finally:
+    import requests # Post, Get, & Put URL API
+    import urllib3  # HTTP client untuk Python
+    from bs4 import BeautifulSoup as bs
+    
 from urllib3.exceptions import *
 from bs4 import BeautifulSoup as bs
 from pip._vendor.requests import post,get # Bisa langsung "from requests import post,get"
