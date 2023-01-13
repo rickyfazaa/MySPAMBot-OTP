@@ -33,8 +33,26 @@ def countdown(time_sec):
         timeformat = '\033[1;97m[\033[1;93m•\033[1;97m] Silakan Menunggu Dalam Waktu \033[1;92m{:02d}:{:02d}'.format(mins,secs)
         waktu = time.localtime()
         keterangan_jam = time.strftime("%H:%M:%S", waktu)
-        keterangan_tanggal = time.strftime("%d %B %Y",waktu)
+        keterangan_tanggal = time.strftime("%d",waktu)
+        keterangan_bulan = time.strftime("%B",waktu)
+        bulan_bulan = {
+        "January"    : 'Januari',
+        "February"   : "Februari",
+        "March"      : "Maret",
+        "April"      : "April",
+        "May"        : "Mei",
+        "June"       : "Juni",
+        "July"       : "Juli",
+        "August"     : "Agustus",
+        "September"  : "September",
+        "October"    : "Oktober",
+        "November"   : "November",
+        "December"   : "Desember"
+        } # Mengubah keterangan bulan menjadi bahasa Indonesia.
+        bulan = bulan_bulan.get(keterangan_bulan)
         
+        keterangan_tahun = time.strftime("%Y",waktu)
+
         keterangan_hari = time.strftime("%A",waktu)
         hari_hari = {
         "Sunday"    : 'Minggu',
@@ -44,10 +62,10 @@ def countdown(time_sec):
         "Thursday"  : "Kamis",
         "Friday"    : "Jum'at",
         "Saturday"  : "Sabtu"
-        } # Mengubah keterangan waktu menjadi bahasa Indonesia.
+        } # Mengubah keterangan hari menjadi bahasa Indonesia.
         hari = hari_hari.get(keterangan_hari)
         
-        print(f"{timeformat} | {biru}{hari}, {keterangan_tanggal} | {kuning}Waktu {keterangan_jam}",end='\r')
+        print(f"{timeformat} | {biru}{hari}, {keterangan_tanggal} {bulan} {keterangan_tahun} | {kuning}Waktu {keterangan_jam}",end='\r')
         time.sleep(1)
         time_sec -= 1
 
