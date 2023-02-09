@@ -25,7 +25,7 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 <br>
 
 
-# v.1.0.4 (**08 Februari 2023**) WORK! ✔️✔️
+# v.1.0.4 (**09 Februari 2023**) WORK! ✔️✔️
 <p align="center">
     <a>
         <img src="https://telegra.ph/file/dd4e64f9f26e9a50ce854.png">
