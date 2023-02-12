@@ -25,13 +25,13 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 <br>
 
 
-# v.1.0.4 (**09 Februari 2023**) WORK! ✔️✔️
+# v.1.0.4 (**12 Februari 2023**) WORK! ✔️✔️
 <p align="center">
     <a>
         <img src="https://telegra.ph/file/dd4e64f9f26e9a50ce854.png">
     </a><br>
     <a>
-        <img src="https://telegra.ph/file/c780d5a5e2d9bfcead008.png">
+        <img src="https://telegra.ph/file/482302231490a0a4cafff.png">
     </a><br>
     Target: <b>Provider Indosat</b> 
 </p>
