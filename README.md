@@ -28,10 +28,7 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 # v.1.0.5 (**23 Februari 2023**) WORK! ✔️✔️
 <p align="center">
     <a>
-        <img src="https://telegra.ph/file/7d766c5d6e565b469d85c.png">
-    </a><br>
-    <a>
-        <img src="https://telegra.ph/file/0ba8847933361f9f572e1.png">
+        <img src="https://telegra.ph/file/d180922d5bac9b916ab70.png">
     </a><br>
     Target: <b>Provider Tri</b> 
 </p>
