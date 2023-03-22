@@ -1,4 +1,4 @@
-# <a style="font-family:cursive">MySPAMBot-OTP WORK 1000%!!</a>
+# <a style="font-family:cursive">MySPAMBot-OTP WORK 1000% FOR ID NUMBER!!</a>
 <p align="justify">Anda punya masalah sama bocil di komen? Atau Anda sedang adu bacot sama fans club bola sebelah? <b>MySPAMBot-OTP</b> solusinya!! <b>MySPAMBot-OTP</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP bertubi-tubi. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
 <br>
 
