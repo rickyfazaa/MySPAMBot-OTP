@@ -7,13 +7,11 @@ try: # Import Module
     import random   # Untuk random user
     import os       # Untuk "clear" terminal
     import urllib3  # HTTP client untuk Python
-    import urllib  # HTTP client untuk Python
     import json     # Agar body requests dapat dilihat dengan cara di print
     import bs4      # Untuk variasi output
 except ImportError:
     subprocess.check_call([sys.executable, "-m", "pip", "install", 'requests'])
     subprocess.check_call([sys.executable, "-m", "pip", "install", 'urllib3'])
-    subprocess.check_call([sys.executable, "-m", "pip", "install", 'urllib'])
     subprocess.check_call([sys.executable, "-m", "pip", "install", 'bs4'])
 finally:
     import requests # Post, Get, & Put URL API
