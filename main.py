@@ -294,12 +294,6 @@ def jam(nomor): # Don't Remove Code !!!!
                 time.sleep(1000) # Tunda 1000 detik
                 rto = 1
 
-            except urllib.request.HTTPError: # HTTPSConnectionPool() A Connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
-                print("")
-                autoketik("--A Connection attempt failed because the connected party did not properly respond after a period of time--")
-                time.sleep(1000) # Tunda 1000 detik
-                rto = 1
-
             except urllib3.exceptions.ProtocolError : # HTTPSConnectionPool() A Connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
                 print("")
                 autoketik("--A Connection attempt failed because the connected party did not properly respond after a period of time--")
