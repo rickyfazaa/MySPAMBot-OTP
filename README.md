@@ -25,10 +25,10 @@ Terdapat Error Handling sehingga ketika di-running bot tetap dapat terus berjala
 <br>
 
 
-# v.1.0.7 (**08 Mei 2023**) WORK! ✔️✔️
+# v.1.0.8 (**23 September 2023**) WORK! ✔️✔️
 <p align="center">
     <a>
-        <img src="https://telegra.ph/file/952306ad780313eca5b16.png">
+        <img src="https://telegra.ph/file/369d2f2c2a346987470c1.png">
     </a><br>
     Target: <b>Provider IM3</b> 
 </p>
@@ -59,8 +59,8 @@ python main.py
 
 ### <p style="color:red">NOTE: Instalasi Tanpa GIT</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
 - **Download Manual:**
-[Download MySPAMBot-OTP](https://github.com/rickyfazaa/MySPAMBot-OTP/releases/download/v.1.0.7/MySPAMBot-OTP-v1.0.7-windows.rar) <br>
-- Extract **MySPAMBot-OTP-v1.0.7-windows.rar**
+[Download MySPAMBot-OTP](https://github.com/rickyfazaa/MySPAMBot-OTP/releases/download/v.1.0.8/MySPAMBot-OTP-v1.0.8-windows.rar) <br>
+- Extract **MySPAMBot-OTP-v1.0.8-windows.rar**
 - **Buka CMD / Command Prompt (atau terminal VSCode)**
 - **Ketik ini untuk masuk kedalam Folder MySPAMBot-OTP**
 ```sh
