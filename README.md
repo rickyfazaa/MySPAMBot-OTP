@@ -1,3 +1,11 @@
+> [!CAUTION]
+> **Repository ini sudah tidak lagi dikembangkan secara aktif. Oleh karena itu, pengguna disarankan untuk beralih ke project alternatif yang dikembangkan oleh komunitas maupun pengguna lain, atau menggunakan project hasil pengembangan lanjutan yang masih mendapatkan pembaruan dan pemeliharaan secara berkala, serta menawarkan fitur tambahan, peningkatan stabilitas, dan pengalaman penggunaan yang lebih baik. Thank you gaes! 😁**
+
+<details>
+<summary>Klik di sini untuk melihat dokumentasi versi lama. Dokumentasi ini tetap disimpan hanya sebagai referensi.</summary>
+
+<br>
+
 # <a style="font-family:cursive">MySPAMBot-OTP WORK 1000% FOR ID NUMBER!!</a>
 <p align="justify">Anda punya masalah sama bocil di komen? Atau Anda sedang adu bacot sama fans club bola sebelah? <b>MySPAMBot-OTP</b> solusinya!! <b>MySPAMBot-OTP</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP bertubi-tubi. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
 <br>
@@ -79,7 +87,7 @@ python main.py
 <br>
 
 
+</details>
+
 ## Support Me 
-## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK, BIAR GK KETINGGALAN UPDATE YGY)
 ### [**My Instagram: @rickyfazaa**](https://www.instagram.com/rickyfazaa)    
-Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/rickyfazaa).
